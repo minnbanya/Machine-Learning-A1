@@ -1,0 +1,27 @@
+2023-08-26 09:36:00.530 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-26 09:36:00.530 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-26 09:36:00.531 [info] Experiment 'pythonTestAdaptercf' is active
+2023-08-26 09:36:00.531 [info] Test server listening.
+2023-08-26 09:36:00.561 [info] > C:\Users\minnb\AppData\Local\Microsoft\WindowsApps\python3.11.exe -c "import sys;print(sys.executable)"
+2023-08-26 09:36:00.602 [error] [Error: Command failed: C:\Users\minnb\AppData\Local\Microsoft\WindowsApps\python3.11.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersminnbAppDataLocalMicrosoftWindowsAppspython3.11.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:400:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1093:16)
+	at Socket.<anonymous> (node:internal/child_process:451:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\minnb\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe -c "import sys;print(sys.executable)"'
+}
+2023-08-26 09:36:02.463 [info] Starting Pylance language server.
+2023-08-26 09:37:50.760 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-26 09:39:15.728 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-26 09:39:21.757 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-26 09:39:35.126 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-26 09:48:04.945 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-26 10:01:23.375 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-26 10:01:28.287 [info] Discover tests for workspace name: code - uri: /root/code/app.py
